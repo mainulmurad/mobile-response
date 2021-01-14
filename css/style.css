@@ -1,0 +1,30 @@
+.header,.hero,.body,.bar,.footer{
+	background-color: teal;
+	padding: 10px 0;
+	margin-bottom: 10px;
+}
+
+.box{
+	margin-bottom: 5px;
+	min-height: 70px;
+	background-color: red;
+	border: 10px solid black;
+	font-size: 50px;
+}
+.white{
+	background-color: blue;
+}
+.header1,.hero1,.body1,.bar1,.footer1{
+	background-color: rgb(137, 212, 190);
+	padding: 10px 0;
+	margin-bottom: 10px;
+}
+.box1{
+	margin-bottom: 5px;
+	min-height: 70px;
+	background-color: teal;
+	border: 10px solid blue;
+	font-size: 50px;
+}
+.white1{
+	background-color: #fff;
